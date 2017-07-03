@@ -1,0 +1,3 @@
+* TODO create shortcut to copy the current line of text
+* TODO how to get the word under the point in lisp
+* TODO how to call the completion functions in company mode
